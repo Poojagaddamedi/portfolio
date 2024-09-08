@@ -1,0 +1,152 @@
+*{
+    box-sizing: border-box;
+    
+    border-radius: 3px;
+}
+.navbar{
+    font-weight: bold;
+    color: #fff;
+    background-color: #c3cef0;
+    font-size: large;
+}
+
+.contain{
+    height: 100vh;
+    width: 100vw;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+
+#page1{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: #c3cef0;
+
+
+}
+
+
+
+#text1{
+
+    position: relative;
+    left: 5%;
+  padding-top: 100px;
+ 
+    height: 90%;
+    width: 80%;
+
+
+    
+}
+
+.box{
+    margin-left: 250px;
+}
+#left>#text1>h4{
+    padding-top: 50px;
+}
+.pooja p{
+    margin-left: 25px;
+    margin-bottom: 30px;
+}
+.pooja h1{
+    text-align: center;
+    margin-top: -15px;
+
+}
+.box hr{
+    margin-top: 30px;
+    
+}
+#page2{
+    
+    height: 100vh;
+    width: 100vw;
+    margin: 0px;
+    padding: 0px;
+    background-color: #fff;
+}
+    #text4{
+        padding-top: 30px;
+        padding-left: 30px;
+       
+    }
+    .projects{
+        background-color: white;
+        margin-top: 20px;
+        padding: 18px;
+    }
+    .p1{
+        margin-top: 80px;
+        padding-right: 40px;
+        margin-right: 90px;
+
+    }
+    .p1 img{
+        width: 250px;
+    }
+    .p2{
+        margin-top: 10px;
+        margin-right: 40px;
+        margin-left: 150px;
+        padding-right: 250px;
+    }
+    .p2 img{
+        width:250px;
+        margin-bottom:50px;
+    }
+    .p3{
+
+        margin-right: 10px;
+        
+        margin-top:-60px;
+    }
+    .p3 img{
+        width: 250px;
+
+    }
+
+
+
+
+
+#page3{
+    height: 100vh;
+    width: 100vw;
+    background-color: #c3cef0;
+}
+.text4 h1{
+    padding: 60px;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+#page3>.collab{
+    text-align: center;
+    font-size: 45px;
+    font-style: bold;
+
+}
+.icons {
+    margin-top: 70px;
+    text-align: center;
+}
+.icons a{
+    border-radius: 10px;
+}
+.last{
+    text-align: center;
+    color: #fff;
+}
+.pooja{
+    margin-top:50px;
+}
+
+
+
+
